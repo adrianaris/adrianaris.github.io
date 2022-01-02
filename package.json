@@ -1,5 +1,5 @@
 {
-  "homepage": "http://adrianaris.github.io",
+  "homepage": "adrianserbanesc.com",
   "name": "adrianserbanescu.com",
   "version": "1.0.0",
   "private": true,
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d public",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",

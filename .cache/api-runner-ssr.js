@@ -1,14 +1,14 @@
 var plugins = [{
       name: 'gatsby-plugin-styled-components',
-      plugin: require('C:/Users/adria/TREABA/Projects/my-gatsby-site/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('C:/Users/adria/TREABA/Projects/adrianserbanescu.com/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false,"disableVendorPrefixes":false},
     },{
       name: 'gatsby-plugin-google-analytics',
-      plugin: require('C:/Users/adria/TREABA/Projects/my-gatsby-site/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('C:/Users/adria/TREABA/Projects/adrianserbanescu.com/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"G-D296ZNCS72","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('C:/Users/adria/TREABA/Projects/my-gatsby-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/adria/TREABA/Projects/adrianserbanescu.com/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"icon":"src/images/icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"53aa06cf17e4239d0dba6ffd09854e02"},
     }]
 /* global plugins */
