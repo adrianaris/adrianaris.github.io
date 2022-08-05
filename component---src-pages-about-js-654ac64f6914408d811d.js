@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkadrianserbanescu_com=self.webpackChunkadrianserbanescu_com||[]).push([[682],{5465:function(e,n,t){t.r(n);var a=t(7294);n.default=function(){return a.createElement("main",null,a.createElement("title",null,"AboutPage"),a.createElement("h1",null,"AboutPage"),a.createElement("p",null,"whatever"))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-654ac64f6914408d811d.js.map
