@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.adrianserbanescu.com",
+    siteUrl: "https://adrianserbanescu.com",
     title: "Adrian Serbanescu",
   },
   plugins: [
     "gatsby-plugin-styled-components",
     {
-      resolve: "gatsby-plugin-google-analytics",
+      resolve: "gatsby-plugin-google-gtag",
       options: {
-        trackingId: "G-D296ZNCS72",
+        trackingIds: ["G-D296ZNCS72"],
       },
     },
     {
