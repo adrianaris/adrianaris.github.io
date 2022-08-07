@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadrianserbanescu_com=self.webpackChunkadrianserbanescu_com||[]).push([[49],{2766:function(e,n,t){t.r(n);var a=t(7294);n.default=function(){return a.createElement("main",null,a.createElement("title",null,"AboutPage"),a.createElement("h1",null,"AboutPage"),a.createElement("p",null,"whatever"))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-f9ac4eddb17a18ae2cc8.js.map
