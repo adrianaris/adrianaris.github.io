@@ -1,6 +1,7 @@
 import * as React from "react"
 import type { HeadFC } from "gatsby"
 import Social from "../components/social"
+import { SEO } from "../components/seo";
 
 const IndexPage = () => {
   return (
@@ -17,4 +18,4 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>Home Page</title>
+export const Head: HeadFC = () => <SEO />

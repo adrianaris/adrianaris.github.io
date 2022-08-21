@@ -2,7 +2,10 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `adrianserbanescu.com`,
+    title: `foxINC`,
+    description: `Portfolio Page Adrian Serbanescu`,
+    twitterUsername: `@serbanescuadi`,
+    image: `/foxINC.svg`,
     siteUrl: `https://adrianserbanescu.com`
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.

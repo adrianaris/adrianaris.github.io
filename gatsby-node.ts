@@ -5,7 +5,8 @@ exports.onCreateWebpackConfig = ({ actions }: {actions: any}) => {
         resolve: {
             alias: {
                 "@components": path.resolve(__dirname, "src/components"),
-                "@config": path.resolve(__dirname, "src/config")
+                "@config": path.resolve(__dirname, "src/config"),
+                "@fonts": path.resolve(__dirname, "src/fonts")
             },
             extensions: [".ts", ".js", ".tsx", ".jsx"],
         }
