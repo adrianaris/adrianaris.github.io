@@ -13,6 +13,10 @@ const GlobalStyle = createGlobalStyle`
              url(${ArvoBold}) format('truetype'),
              url(${ArvoBoldItalic}) format('truetype')
     }
+    
+    html {
+        box-sizing: border-box;
+    }
 `;
 
 export default GlobalStyle;
