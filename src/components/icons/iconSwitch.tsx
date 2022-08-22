@@ -5,7 +5,7 @@ import {
     TwitterIcon
 } from '@components/icons';
 
-const IconSwitch = ({ name }): JSX.Element => {
+const IconSwitch = ({ name } : { name: string }): JSX.Element => {
     switch(name) {
         case 'GitHub':
             return <GitHubIcon />;

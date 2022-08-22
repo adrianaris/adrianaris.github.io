@@ -8,7 +8,6 @@ exports.onCreateWebpackConfig = ({ actions }: {actions: any}) => {
                 "@config": path.resolve(__dirname, "src/config"),
                 "@fonts": path.resolve(__dirname, "src/fonts")
             },
-            extensions: [".ts", ".js", ".tsx", ".jsx"],
         }
     });
 };
