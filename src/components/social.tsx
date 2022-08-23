@@ -11,6 +11,7 @@ padding: 0;
     padding: 0.5rem;
     > a {
         color: inherit;
+        text-decoration: none;
         &:hover {
             color: purple;
         }
